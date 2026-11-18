@@ -19,6 +19,7 @@ body {
 
 /* Brutalist container */
 .brutalist-container {
+  max-width: 800px;
   margin-top: 200px;
   padding: 5px;
   background-color: #fff;
@@ -76,6 +77,20 @@ body {
   margin-bottom: 50px;
   text-align: right;
   animation: colorShift 2s infinite;
+}
+
+
+.nonsense-desc .gigs {
+  list-style: none;
+  margin: 0;
+  font-size: 1.2rem;
+  color: #0ff;
+}
+
+span.gig {
+  display: block;
+  margin-top: 1rem;
+  padding-top: 1rem;
 }
 
 /* Color-shifting description */
