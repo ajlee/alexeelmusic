@@ -10,7 +10,7 @@ body {
   padding-top:100px;
   display: flex;
   justify-content: center;
-  align-items: center;
+/* align-items: center; */
   background: #000;
   font-family: 'Arial', sans-serif;
   color: #fff;
